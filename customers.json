@@ -1,0 +1,56 @@
+[{
+    "name" : "John",
+    "id" : "asdf-akkd-123s-asdf-afsd",
+    "bank" : "",
+    "branch" : "",
+    "city" : "",
+    "ifsc" : "",
+    "comments" : "",
+    "address1" : "",
+    "address2" : "",
+    "special" : "no"
+},{
+    "name" : "Elton",
+    "id" : "a1df-akkd-123s-asdf-a123",
+    "bank" : "",
+    "branch" : "",
+    "city" : "",
+    "ifsc" : "",
+    "comments" : "",
+    "address1" : "",
+    "address2" : "",
+    "special" : "no"
+},{
+    "name" : "Smith",
+    "id" : "c3df-akkd-123s-asdf-a123",
+    "bank" : "",
+    "branch" : "",
+    "city" : "",
+    "ifsc" : "",
+    "comments" : "",
+    "address1" : "",
+    "address2" : "",
+    "special" : "no"
+},{
+    "name" : "Ronald",
+    "id" : "43df-akkd-123s-asdf-a123",
+    "bank" : "Citi",
+    "branch" : "PA",
+    "city" : "PA",
+    "ifsc" : "",
+    "comments" : "",
+    "address1" : "101,Red street",
+    "address2" : "Mountain View",
+    "special" : "no"
+},{
+    "name" : "Clinton",
+    "id" : "33df-akkd-123s-asdf-a123",
+    "bank" : "Citi",
+    "branch" : "PA",
+    "city" : "PA",
+    "ifsc" : "",
+    "comments" : "",
+    "address1" : "102,Green Street",
+    "address2" : "Mountain View",
+    "special" : "yes"
+}]

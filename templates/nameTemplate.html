@@ -1,0 +1,5 @@
+<div class="ui-grid-cell-contents">
+    <i ng-if="row.entity.special === 'yes'" class="fa fa-lock" aria-hidden="true"></i>
+    <span ng-disabled="row.entity.special === 'yes'"> {{ row.entity.name }}</span>
+    <span ng-click='grid.appScope.editCell(row, col)'><i class="fa fa-pencil" aria-hidden="true"></i></span>
+</div>

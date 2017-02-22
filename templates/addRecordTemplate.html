@@ -1,0 +1,12 @@
+<div class="ui-grid-cell">
+    <div class="btn-group">
+        <div ng-class="{' dropdown open':isDropdownOpen,'dropdown': !isDropdownOpen}">
+            <button class="dropdown-toggle" type="button" data-toggle="dropdown"><i class="fa fa-cog" aria-hidden="true" ng-click="grid.appScope.changeClass()"></i>
+            </button>
+            <ul class="dropdown-menu">
+            <li ng-click="grid.appScope.deleteRecord(row.entity)"><a>Delete Customer</a></li>
+            <li ng-click="grid.appScope.addRecord(row.entity)"><a>Add Record</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
